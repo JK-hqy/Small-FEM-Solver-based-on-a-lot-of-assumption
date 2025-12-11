@@ -140,6 +140,12 @@ Where:
 - 12 DOF per element (6 per node)
 - Includes shear deformation effects
 
+## 👨‍💻 Author
+
+**王中王，火腿肠，果冻我吃喜之郎**
+
+看完代码如果觉得还不错记得一键三连，有问题随时dd我，如果你线下也有我的联系方式的话，做兄弟，在心中，有事电话打不通，谢谢 🙏
+
 ## 📜 License
 
 MIT License - See [LICENSE](LICENSE) file for details.
